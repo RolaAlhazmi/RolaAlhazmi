@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rola Alhazmi 👋
 
-<!--
-**RolaAlhazmi/RolaAlhazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 **Computer Science / Tech Graduate** passionate about **Artificial Intelligence** and **Data Analysis**.
+- 🛠️ Successfully developed an **AI Vehicle Breakdown Prediction** model using Machine Learning algorithms (Random Forest) with **98.5% accuracy**.
+- 📊 Experienced in operational data analysis, reporting, and process optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages & Frameworks:** Python, SQL
+- **Data & AI Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Tools & Environments:** Jupyter Notebook, Microsoft Excel (Advanced), GitHub
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [Rola Alhazmi Profile](https://www.linkedin.com)
+- 📧 **Email:** rur4455@gmail.com
