@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 **Computer Science / Tech Graduate** passionate about **Artificial Intelligence** and **Data Analysis**.
-- 🛠️ Successfully developed an **AI Vehicle Breakdown Prediction** model using Machine Learning algorithms (Random Forest) with **98.5% accuracy**.
+- 🛠 Studied and applied a traffic sign classification project using deep learning (TensorFlow) on the GTSRB dataset.
 - 📊 Experienced in operational data analysis, reporting, and process optimization.
 
 ---
@@ -15,5 +15,5 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [Rola Alhazmi Profile](https://www.linkedin.com)
-- 📧 **Email:** rur4455@gmail.com
+- **LinkedIn:** [Rola Alhazmi Profile](https://www.linkedin.com/in/rola-alhazmi/)
+- 📧 **Email:** rolaalhazmi.cs@gmail.com
