@@ -9,7 +9,7 @@
 
 ### 🛠️ Skills & Tools
 - **Languages & Frameworks:** Python, SQL
-- **Data & AI Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Data & AI Libraries:** Pandas, NumPy, TensorFlow, Matplotlib, Seaborn
 - **Tools & Environments:** Jupyter Notebook, Microsoft Excel (Advanced), GitHub
 
 ---
